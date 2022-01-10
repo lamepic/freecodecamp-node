@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Richard Arthur",
 	"description": "Freecode camp nodejs practice course",
-	"keywords": [ "beginner-project", "node", "freecodecamp" ],
+	"keywords": [ "beginner-project", "nodejs", "freecodecamp" ],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
